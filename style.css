@@ -1,0 +1,214 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #39289f;
+    font-family: "Poppins", sans-serif;
+}
+.header{
+    height: 12vh;
+    display: flex;
+    justify-content: space-between;
+}
+.header a{
+    color: white;
+    text-decoration: none;
+    padding-top: 40px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.header ul{
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    padding-right: 30px;
+    padding-top: 15px;
+   list-style-type:none;
+}
+.header a button{
+    color: white;
+    background-color: orange;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.header a button:hover{
+  background-color: black;
+}
+.hero-section{
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.child1{
+    color: orange;
+    align-items: center;
+    padding-left: 150px;
+    
+
+}
+.child1 h1{
+    color: white;
+    padding-top: 10px;
+}
+.child1 p{
+    color: white;
+    padding-top: 20px;
+    font-size: small;
+
+}
+.child1 button{
+    color: white;
+    background-color: orange;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    margin-top: 35px;
+}
+.child1 button:hover{
+    background-color: black;
+}
+.child1 img{
+    display: flex;
+    align-items: center;
+    padding-right: 150px;
+}
+.parent1{
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+   padding-left: 150px;
+
+}
+.child2{
+   color:white;
+   padding-left: 150px;
+   padding-top: 50px;
+}
+.child3{
+    padding-top: 50px;
+    margin-right: 20px; 
+    padding-top: 50px;
+    margin-right: 20px;  
+}
+.child4{
+    padding-top: 50px;
+    margin-right: 20px;  
+}
+
+.child5{
+    padding-top: 50px;
+     margin-right: 20px;  
+}
+.child6{
+    padding-top: 50px;
+    margin-right: 20px;  
+}
+
+
+.parent2{
+    padding-left: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.child7{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+   
+}
+.child8{
+    padding-left: 50px;
+}
+.child9{
+    padding-left: 150px;
+}
+.child10{
+    padding-left: 130px;
+}
+.child11{
+    padding-left: 120px;
+}
+.parent3{
+    height: 12vh;
+    
+    
+}
+.child12{
+    color: white;
+    padding-left: 500px;
+    padding-top: 100px;
+    font-size:20px;
+    font-weight: bold;
+    
+    
+}
+.parent4{
+    height: 50vh;
+    padding-top: 150px;
+    padding-left: 150px;
+    color:white;
+}
+.child14{
+    padding-top: 15px;
+    font-size: smaller;
+}
+.child15{
+    padding-right: 150px;
+    padding-top: 60px;
+    border-radius: 20px;
+}
+.child16{
+    padding-bottom: 400px;
+    padding-left: 500px;
+    color: white;
+    font-size:20px;
+    font-weight: bold;
+    padding-top: 10px;
+    
+}
+
+
+
+.parent5{
+    height: 100vh;
+   padding-top: 500px;
+   padding-left: 150px;
+   border-radius:40px;
+   filter:10%;
+    
+}
+.parent6{
+    height:100vh;
+    color: white;
+    padding-left: 600px;
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 400px;
+
+}
+.child17{
+   
+   font-size:  xx-small;
+   padding-top: 10px;
+}
+
+.parent7{
+    height: 50vh;
+    padding-left: 150px;
+    flex-wrap: wrap;
+    padding-bottom: 500px;
+}
+.parent8{
+    height: 50vh;
+    padding-left: 150px;
+    color: white;
+    padding-bottom: 200px;
+}
+
+.child18{
+    padding-top: 10px;
+    font-size: xx-small;
+}
